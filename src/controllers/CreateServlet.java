@@ -25,7 +25,6 @@ public class CreateServlet extends HttpServlet {
      */
     public CreateServlet() {
         super();
-
     }
 
     /**
